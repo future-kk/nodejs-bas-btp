@@ -27,3 +27,5 @@ ztetstweb('Rainbow');
 [daviddm-url]: https://david-dm.org//ztetstweb
 [coveralls-image]: https://coveralls.io/repos//ztetstweb/badge.svg
 [coveralls-url]: https://coveralls.io/r//ztetstweb
+
+connected to remote github respository now.

@@ -1,0 +1,8 @@
+applications:
+  - name: my-app1
+    memory: 256M
+    instances: 1
+    routes:
+      - route: host2.cert.cfapps.us10-001.hana.ondemand.com
+    buildpacks:
+      - nodejs_buildpack
